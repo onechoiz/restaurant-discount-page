@@ -1,2 +1,2 @@
 # sds
-# rrestaurant-discount-page
+# restaurant-discount-page
